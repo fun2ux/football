@@ -1,3 +1,5 @@
+Das ist die Änderung
+
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
 
