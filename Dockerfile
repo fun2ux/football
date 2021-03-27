@@ -1,5 +1,5 @@
 Das ist die Änderung
-hallo Stefan
+Das ist noch eine Änderung
 
 ARG DOCKER_BASE
 FROM $DOCKER_BASE
